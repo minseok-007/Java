@@ -9,6 +9,7 @@ public class operator {
         int b = 4;
         int c = a % b;
 
+        int d = 1;
         System.out.println(a != b);
 
         // go to school    ||     go to restaurant
