@@ -10,6 +10,7 @@ public class operator {
         int c = a % b;
 
         int d = 1;
+        int e = 1;
         System.out.println(a != b);
 
         // go to school    ||     go to restaurant
